@@ -1,3 +1,4 @@
+libgl1-mesa-glx
 absl-py==1.4.0
 altair==4.2.2
 astunparse==1.6.3
