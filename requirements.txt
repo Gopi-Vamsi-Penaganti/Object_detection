@@ -10,3 +10,4 @@ tensorflow-gpu==2.10.0
 ultralytics==8.0.109
 
 zipp==3.15.0
+libgl1
